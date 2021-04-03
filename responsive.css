@@ -17,7 +17,7 @@
     }
 @media only screen and  (max-width:824px){
   .home{
-    background: url("/img/bg2.jpeg") no-repeat  center ;
+    background: url("bg2.jpeg") no-repeat  center ;
     background-size: cover;
     height: 90vh;
     }
